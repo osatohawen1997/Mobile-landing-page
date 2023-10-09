@@ -185,3 +185,11 @@
         width: 95% !important;
     }
 }
+
+/* Faq section */
+@media(max-width: 991.98px){
+    .faq-text,
+    .faq-row{
+        margin-bottom: 2rem;
+    }
+}
