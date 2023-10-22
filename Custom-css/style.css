@@ -91,9 +91,6 @@ a:hover .logo-transition:nth-child(4){
 
 
 /* Head-background section */
-.head-bg{
-    
-}
 
 .flip4-img{
     position: absolute;
@@ -125,6 +122,9 @@ a:hover .logo-transition:nth-child(4){
 
 .img-card-container{
     overflow: hidden;
+}
+.card-img-top{
+    transition: 1s ease-in-out;
 }
 
 .card-img-top:hover{
